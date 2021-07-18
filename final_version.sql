@@ -1,3 +1,6 @@
+-- The project is about exploring coviddeaths and covidvaccinations statistics and do some queries on them.
+--Skills I have used are msotly including Joins, CTE's, Temp Tables, creating views, windows Function, Aggregate Functions, converting data types and etc.
+
 select * from coviddeaths
 where continent is null 
 
